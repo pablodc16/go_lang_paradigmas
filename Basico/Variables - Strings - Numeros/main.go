@@ -40,7 +40,8 @@ func main() {
 	// para los tipos flotantes siempre hay que especificar la variacion y solo hay dos: 32 y 64
 	var precio1 float32 = 100.15
 	var precio2 float64 = 100000000.15
-	precio3 := 2.78
+	var precio3 float32
+	precio4 := 2.78
 
-	fmt.Println(precio1, precio2, precio3)
+	fmt.Println(precio1, precio2, precio3, precio4)
 }
