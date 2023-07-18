@@ -1,0 +1,6 @@
+Detalle de la factura: 
+pie:                      ...$4.99 
+cafe:                     ...$3.5 
+Tip:                      ...$10.00 
+Total sin Tip:            ...$8.49 
+Total con Tip:            ...$18.49 
